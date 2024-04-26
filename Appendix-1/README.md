@@ -1,1 +1,1 @@
-asa
+This annex provides the process parameter enrichment network in the paper, and the data source can be referred to "DUAN Y F, LIU R, LIU X J, et al. Analysis of key measures of vanadium extraction from molten iron based on process theory and data mining[J]. Iron and Steel, 2024, 59(03):58. https://doi.org/10.13228/j.boyuan.issn0449-749x.20230438".
